@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jf-horton
+- 👋 Hi, I’m Jared
 - 👀 I’m interested in Robotics, Computer Vision, Machine Learning, Data Science, and App Development
 - 🌱 I’m currently studying Computer Engineering and Machine Learning
 - 👍 I’m looking to collaborate on data science projects
